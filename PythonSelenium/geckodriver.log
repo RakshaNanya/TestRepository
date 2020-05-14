@@ -1,0 +1,94 @@
+1587192809958	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EWTLT0~1.SWA\\AppData\\Local\\Temp\\rust_mozprofilee6dc5s"
+1587192832718	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587192835108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587192835108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587192835109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587192835109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1587192866479	Marionette	INFO	Listening on port 65094
+1587192866993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587193341745	Marionette	INFO	Stopped listening on port 65094
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"-profile" "C:\\Users\\EWTLT0~1.SWA\\AppData\\Local\\Temp\\rust_mozprofileLQiw2S"
+1587193136436	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587193140126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587193140127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587193140127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587193140127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1587193153146	Marionette	INFO	Listening on port 65413
+1587193153182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+1587193292546	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EWTLT0~1.SWA\\AppData\\Local\\Temp\\rust_mozprofileCIaXSq"
+1587193294825	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587193297095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587193297095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587193297095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587193297095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587193304190	Marionette	INFO	Listening on port 49338
+1587193306419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587193341690	Marionette	INFO	Stopped listening on port 49338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1587193400086	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EWTLT0~1.SWA\\AppData\\Local\\Temp\\rust_mozprofileM768CV"
+1587193401093	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587193403096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587193403096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587193403097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587193403097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587193407737	Marionette	INFO	Listening on port 49513
+1587193408004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+1587193445379	Marionette	INFO	Stopped listening on port 49513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1587193489534	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EWTLT0~1.SWA\\AppData\\Local\\Temp\\rust_mozprofileaYRzVG"
+1587193490599	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1587193492094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1587193492094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1587193492094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1587193492095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1587193495403	Marionette	INFO	Listening on port 49720
+1587193495802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+JavaScript error: http://13.235.88.224/Website_test/js/minicart.min.js, line 12: TypeError: d.parent is null
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 79: TypeError: $(...).UItoTop is not a function
+JavaScript error: http://13.235.88.224/Website_test/Add_users.aspx, line 223: TypeError: $(...).datepicker is not a function
+[Parent 3252, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1587219136373	Marionette	INFO	Stopped listening on port 49720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
