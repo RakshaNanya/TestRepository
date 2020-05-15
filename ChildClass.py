@@ -10,6 +10,8 @@ class Super(Calculator):
 
     def getcompletedata(self):
         print("Git Testing 1")
+	print("SubBranch testing 2")
+	print("Checking that the changes done to Subbranches effects 		master barsnch or not")
         return self.num2 + self.summation() + self.num
 
 
