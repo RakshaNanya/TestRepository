@@ -9,7 +9,7 @@ class Super(Calculator):
         print("init calculator")
 
     def getcompletedata(self):
-        print("Hii")
+        print("Git Testing 1")
         return self.num2 + self.summation() + self.num
 
 
